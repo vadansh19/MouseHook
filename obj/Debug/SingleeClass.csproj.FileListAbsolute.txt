@@ -1,0 +1,21 @@
+C:\Vadansh Workspace\Codes\Soroco Win32 Task\SingleeClass\bin\Debug\SingleeClass.exe.config
+C:\Vadansh Workspace\Codes\Soroco Win32 Task\SingleeClass\bin\Debug\SingleeClass.exe
+C:\Vadansh Workspace\Codes\Soroco Win32 Task\SingleeClass\bin\Debug\SingleeClass.pdb
+C:\Vadansh Workspace\Codes\Soroco Win32 Task\SingleeClass\obj\Debug\SingleeClass.csproj.AssemblyReference.cache
+C:\Vadansh Workspace\Codes\Soroco Win32 Task\SingleeClass\obj\Debug\SingleeClass.csproj.CoreCompileInputs.cache
+C:\Vadansh Workspace\Codes\Soroco Win32 Task\SingleeClass\obj\Debug\SingleeClass.exe
+C:\Vadansh Workspace\Codes\Soroco Win32 Task\SingleeClass\obj\Debug\SingleeClass.pdb
+D:\Vadansh\Work\Others\Soroco Win32 Task\SingleeClass\bin\Debug\SingleeClass.exe.config
+D:\Vadansh\Work\Others\Soroco Win32 Task\SingleeClass\bin\Debug\SingleeClass.exe
+D:\Vadansh\Work\Others\Soroco Win32 Task\SingleeClass\bin\Debug\SingleeClass.pdb
+D:\Vadansh\Work\Others\Soroco Win32 Task\SingleeClass\obj\Debug\SingleeClass.csproj.AssemblyReference.cache
+D:\Vadansh\Work\Others\Soroco Win32 Task\SingleeClass\obj\Debug\SingleeClass.csproj.CoreCompileInputs.cache
+D:\Vadansh\Work\Others\Soroco Win32 Task\SingleeClass\obj\Debug\SingleeClass.exe
+D:\Vadansh\Work\Others\Soroco Win32 Task\SingleeClass\obj\Debug\SingleeClass.pdb
+C:\Vadansh Workspace\Codes\SingleeClass\SingleeClass\bin\Debug\SingleeClass.exe.config
+C:\Vadansh Workspace\Codes\SingleeClass\SingleeClass\bin\Debug\SingleeClass.exe
+C:\Vadansh Workspace\Codes\SingleeClass\SingleeClass\bin\Debug\SingleeClass.pdb
+C:\Vadansh Workspace\Codes\SingleeClass\SingleeClass\obj\Debug\SingleeClass.csproj.AssemblyReference.cache
+C:\Vadansh Workspace\Codes\SingleeClass\SingleeClass\obj\Debug\SingleeClass.csproj.CoreCompileInputs.cache
+C:\Vadansh Workspace\Codes\SingleeClass\SingleeClass\obj\Debug\SingleeClass.exe
+C:\Vadansh Workspace\Codes\SingleeClass\SingleeClass\obj\Debug\SingleeClass.pdb

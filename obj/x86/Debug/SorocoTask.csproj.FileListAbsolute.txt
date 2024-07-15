@@ -1,0 +1,7 @@
+C:\Vadansh Workspace\Codes\SingleeClass\Soroco Task\bin\x86\Debug\SorocoTask.exe.config
+C:\Vadansh Workspace\Codes\SingleeClass\Soroco Task\bin\x86\Debug\SorocoTask.exe
+C:\Vadansh Workspace\Codes\SingleeClass\Soroco Task\bin\x86\Debug\SorocoTask.pdb
+C:\Vadansh Workspace\Codes\SingleeClass\Soroco Task\obj\x86\Debug\SorocoTask.csproj.AssemblyReference.cache
+C:\Vadansh Workspace\Codes\SingleeClass\Soroco Task\obj\x86\Debug\SorocoTask.csproj.CoreCompileInputs.cache
+C:\Vadansh Workspace\Codes\SingleeClass\Soroco Task\obj\x86\Debug\SorocoTask.exe
+C:\Vadansh Workspace\Codes\SingleeClass\Soroco Task\obj\x86\Debug\SorocoTask.pdb
